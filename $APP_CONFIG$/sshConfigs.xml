@@ -1,0 +1,15 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="47.56.92.19" id="9a3a304c-8c7a-4014-ae12-b43bf183c938" port="22" customName="线上app服务器" nameFormat="CUSTOM" username="kd">
+        <option name="customName" value="线上app服务器" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="47.56.216.246" id="3fa09e02-90d0-4b6e-93b7-a9931a9f06a9" port="22" customName="线上data服务器" nameFormat="CUSTOM" username="kd">
+        <option name="customName" value="线上data服务器" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="192.168.0.204" id="e0127c52-5571-4102-945a-e99aa08dc120" port="22" customName="线下app服务器" nameFormat="CUSTOM" username="finbtc">
+        <option name="customName" value="线下app服务器" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

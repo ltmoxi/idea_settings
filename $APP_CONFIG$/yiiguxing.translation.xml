@@ -1,0 +1,62 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="433" />
+    <histories>
+      <item value="结算月份" />
+      <item value="package com.pailing.tea.mapper; import com.baomidou.mybatisplus.core.mapper.basemapper; import com.pailing.tea.vo.flowtype; &lt;p&gt; 流动类别类型表 mapper 接口 &lt;p&gt; @author feixinxin @since 2021-01-12 public interface flowtypemapper extends basemapper&lt;flowtype&gt; { }" />
+      <item value="Decorate" />
+      <item value="Captcha" />
+      <item value="collection" />
+      <item value="equal Ignore Case" />
+      <item value="ceil" />
+      <item value="处理完毕" />
+      <item value="extends" />
+      <item value="distribute" />
+      <item value="推送至设备" />
+      <item value="设备" />
+      <item value="保存" />
+      <item value="Immutable Map" />
+      <item value="the class (or interface) to restrict property setting to" />
+      <item value="register Time" />
+      <item value="Catering Ticket" />
+      <item value="add Catering" />
+      <item value="Catering" />
+      <item value="CONFLICT" />
+      <item value="one Day After" />
+      <item value="毫秒" />
+      <item value="Big Decimal Delegate" />
+      <item value="actuator" />
+      <item value="Time Millis" />
+      <item value="current Time Millis" />
+      <item value="Millis" />
+      <item value="category" />
+      <item value="cid" />
+      <item value="Read Count" />
+      <item value="privority" />
+      <item value="splash Window" />
+      <item value="查询splash Window" />
+      <item value="shelf Total By Date" />
+      <item value="Data Integrity Violation Exception" />
+      <item value="twenty chapter" />
+      <item value="阅读进度统计" />
+      <item value="synopsis" />
+      <item value="简介" />
+      <item value="discover" />
+      <item value="landscape Cover" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1612184994645" />
+  </component>
+</application>
