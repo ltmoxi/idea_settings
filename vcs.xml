@@ -90,6 +90,10 @@
           <option name="url" value="ssh://litian@git.jimhuang.cn:29418/pailing/server/vendor-server" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xuweichao010/cloud_finchley.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\PL02\OneDrive\work" />
