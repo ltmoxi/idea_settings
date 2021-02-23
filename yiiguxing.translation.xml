@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="433" />
     <histories>
+      <item value="Decorate" />
       <item value="业务逻辑错误" />
       <item value="可提现列表" />
       <item value="已成功" />
@@ -12,7 +13,6 @@
       <item value="captcha" />
       <item value="结算月份" />
       <item value="package com.pailing.tea.mapper; import com.baomidou.mybatisplus.core.mapper.basemapper; import com.pailing.tea.vo.flowtype; &lt;p&gt; 流动类别类型表 mapper 接口 &lt;p&gt; @author feixinxin @since 2021-01-12 public interface flowtypemapper extends basemapper&lt;flowtype&gt; { }" />
-      <item value="Decorate" />
       <item value="Captcha" />
       <item value="collection" />
       <item value="equal Ignore Case" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="RUSSIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="INDONESIAN" value="1" />
