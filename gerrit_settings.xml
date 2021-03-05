@@ -1,3 +1,3 @@
 <application>
-  <component name="GerritSettings" Login="litian" Host="http://git.jimhuang.cn" ListAllChanges="true" AutomaticRefresh="true" RefreshTimeout="15" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" ShowTopicColumn="false" ShowProjectColumn="AUTO" CloneBaseUrl="" />
+  <component name="GerritSettings" Login="litian" Host="http://git.jimhuang.cn" ListAllChanges="false" AutomaticRefresh="true" RefreshTimeout="15" ReviewNotifications="true" PushToGerrit="true" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" ShowTopicColumn="false" ShowProjectColumn="AUTO" CloneBaseUrl="" />
 </application>
