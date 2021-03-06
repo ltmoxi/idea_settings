@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1045" />
     <option name="newTranslationDialogY" value="184" />
     <histories>
+      <item value="Check Passed" />
       <item value="Utility" />
       <item value="A DerivedColumnList is a name of a table expression with optional derived column list.&#10;An example of a correlation name with derived column list is: table(column1, column2)&#10;作者:&#10;Lukas Eder" />
       <item value="This type is used for the H2-specific variant of the Merge's DSL API.&#10;Example: &#10;   DSLContext create = DSL.using(configuration);&#10;  &#10;   create.mergeInto(table, field1)&#10;         .key(id)&#10;         .values(field1)&#10;         .execute();&#10;   " />
@@ -54,12 +55,11 @@
       <item value="twenty chapter" />
       <item value="阅读进度统计" />
       <item value="synopsis" />
-      <item value="简介" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="RUSSIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="INDONESIAN" value="1" />
